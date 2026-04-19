@@ -44,7 +44,7 @@ I love clean code, good design, and strawberry milk.
 <!-- CONNECT -->
 ### ❀ Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ffc8dd?style=for-the-badge&logo=About.me&logoColor=9d2a50)](arcianne.github.io/Gallery/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ffc8dd?style=for-the-badge&logo=About.me&logoColor=9d2a50)](https://github.com/Arcianne/Gallery)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffd6e7?style=for-the-badge&logo=linkedin&logoColor=9d2a50)](https://www.linkedin.com/in/mary-jairelle-mangune-70824a306/)
 
 
