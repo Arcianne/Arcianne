@@ -6,7 +6,7 @@
 *developer · dreamer · lifelong learner*  ‧₊˚❀༉‧₊˚.
 
 </div>
-⊱ ───────────────────────────────────────── ⋅ʚ♡ɞ⋅ ───────────────────────────────────────── ⊰
+⊱ ─────────────────────────────────────── ⋅ʚ♡ɞ⋅ ─────────────────────────────────────── ⊰
 
 <!-- ABOUT -->
 ### ✿ Hi there!
@@ -18,7 +18,7 @@ I love clean code, good design, and strawberry milk.
 - 🌿 Learning: **Livewire · Laravel · UI/UX**
 - 💌 Reach me: **jairellemangune17@gmail.com**
 
-⊱ ───────────────────────────────────────── ⋅ʚ♡ɞ⋅ ───────────────────────────────────────── ⊰
+⊱ ─────────────────────────────────────── ⋅ʚ♡ɞ⋅ ─────────────────────────────────────── ⊰
 
 <!-- TECH STACK -->
 ### ꔫ Tools & Tech
@@ -29,7 +29,7 @@ I love clean code, good design, and strawberry milk.
 ![Laravel](https://img.shields.io/badge/Laravel-ffc8dd?style=for-the-badge&logo=laravel&logoColor=9D2A50)
 ![Figma](https://img.shields.io/badge/Figma-ffd6e7?style=for-the-badge&logo=figma&logoColor=9D2A50)
 
-⊱ ───────────────────────────────────────── ⋅ʚ♡ɞ⋅ ───────────────────────────────────────── ⊰
+⊱ ─────────────────────────────────────── ⋅ʚ♡ɞ⋅ ─────────────────────────────────────── ⊰
 
 <!-- STATS -->
 ### ✦ Stats
@@ -39,7 +39,7 @@ I love clean code, good design, and strawberry milk.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arcianne&layout=compact&bg_color=fff0f5&title_color=9d2a50&text_color=5a2840&border_color=f4b8cc" height="160"/>
 </div>
 
-⊱ ───────────────────────────────────────── ⋅ʚ♡ɞ⋅ ───────────────────────────────────────── ⊰
+⊱ ─────────────────────────────────────── ⋅ʚ♡ɞ⋅ ─────────────────────────────────────── ⊰
 
 <!-- CONNECT -->
 ### ❀ Connect
