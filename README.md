@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb7c5,50:ff8fab,100:ffc8dd&height=200&section=header&text=♡⊹˚₊Welcome₊˚⊹♡&fontAlignY=38&fontSize=50&fontColor=9D2A50&animation=fadeIn" />
 
-*developer · dreamer · lifelong learner*  ‧₊˚❀༉‧₊˚.
+ ‧₊˚❀༉‧₊˚. *software developer · ui/ux enjoyer · professional bug creator*  ‧₊˚❀༉‧₊˚.
 
 </div>
 ⊱ ─────────────────────────────────────── ⋅ʚ♡ɞ⋅ ─────────────────────────────────────── ⊰
