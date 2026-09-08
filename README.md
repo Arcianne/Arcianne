@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb7c5,50:ff8fab,100:ffc8dd&height=200&section=header&text=♡⊹˚₊Arcianne₊˚⊹♡&fontAlignY=38&fontSize=50&fontColor=9D2A50&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb7c5,50:ff8fab,100:ffc8dd&height=200&section=header&text=♡⊹˚₊Welcome₊˚⊹♡&fontAlignY=38&fontSize=50&fontColor=9D2A50&animation=fadeIn" />
 
 *developer · dreamer · lifelong learner*  ‧₊˚❀༉‧₊˚.
 
